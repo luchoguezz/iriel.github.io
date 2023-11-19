@@ -1,0 +1,186 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+
+body{
+    background-color: white;
+    align-content: center;
+    
+}
+
+.redesSociales
+{
+    width: 100%;
+    height: auto;
+    background-color: white;
+}
+
+.redes1Container{
+    width: 100%;
+    height: 5%;
+    background-color: rgba(54, 102, 54, 0.966);
+
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: auto;
+    
+    
+}
+
+.logoInsta {
+    margin-top: 5px;
+    height: 20.7px;
+    width: 20.7px;
+    margin-bottom: 5px;
+}
+
+.logoTwitter{
+    margin-top: 4px;
+    margin-left: 80%;
+    height: 24.7px;
+    width: 27.1px;
+    margin-bottom: 5px;
+   
+}
+
+.logo{
+    width: 100%;
+    height: 10%;
+    background-color: rgb(2, 61, 22) ;
+    display: grid;
+    grid-template-columns: 1fr 2fr ;
+    grid-template-rows: auto;
+    
+}
+
+.letraLogo{
+    margin-top: 10px;
+    margin-left: 20px;
+    font-size: 30px;
+    color: wheat;
+    font-family: Agbalumo;
+}
+
+nav {
+    background-color: rgb(2, 61, 22) ;
+    color: white;
+}
+
+        ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+        }
+
+                li {
+                    float: left;
+                }
+
+                        li a {
+                            display: block;
+                            padding: 23px 40px;
+                            text-decoration: none;
+                            color: white;
+                            margin-left: 20px;
+                        }
+
+                                li a:hover {
+                                    background-color: #111;
+                                }
+
+.conteinerIntro{
+    margin-top: 60px;
+  
+    background-repeat: no-repeat;
+    background-size:cover;
+    
+  
+    width: 80%;
+    height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    display: grid;
+    grid-template-columns: 1fr 2fr ;
+    grid-template-rows: auto;
+    
+}  
+
+
+
+.fotoIriel{
+    width: 288px;
+    height: 301.6px ;
+    margin-top: 40px;
+    margin-left: 40px;
+    margin-left: 20px;
+    margin-right: auto;
+}
+
+.scTitulo{
+    margin-top: 100px;
+    font-size: 30px;
+    
+    margin-right: auto;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+  
+
+}
+
+.parrafo2{
+    margin-top: 30px;
+    font-size: 20px;
+    
+    margin-right: auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+.conteinerTitulos{
+    margin-top: 60px;
+    background-color:  rgba(255, 255, 255, 0.904);
+    width: 80%;
+    height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr ;
+    grid-template-rows: 2fr
+
+}
+
+.diploma1{
+    margin-left: 70px;
+    
+    width: 204.8px ;
+    height: 204.8px;
+}
+
+.diploma2{
+    width: 204.8px ;
+    height: 204.8px;
+    margin-left: 70px;
+    
+}
+
+.estudiando
+{
+    width: 204.8px ;
+    height: 204.8px;
+    margin-left: 70px;
+    
+}
+
+.titulos{
+    text-align: center;
+    font-size: 17px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.titulo
+{
+    text-align: center;
+}
